@@ -35,7 +35,7 @@ var ti={}
 
 client.on('ready', function(){
     var ms = 60000 ;
-    $iiCara_YT','var setGame = ['$help','OK $help'];
+    iiCara_YT','var setGame = ['$help','OK $help'];
     var i = -1;
     var j = 0;
     setInterval(function (){
